@@ -1,4 +1,4 @@
-# (附文档)Python+深度学习+Vue3 淘宝用户行为数据分析系统
+# (附文档)Python+机器学习+Vue3 淘宝用户行为数据分析系统
 
 **技术栈**：Python、Flask、机器学习、Vue3、MySQL
 
